@@ -20,7 +20,7 @@
 		{
 			"pageTitle": "Styles",
 			"pageContent": [
-				"Content for the page. A page can also contain sections.",
+				"Everything needs to be like pizza",
 				"Style are how we speak the language here"
 			],
 			"section": [
@@ -76,6 +76,13 @@
 		},
 		{
 			"pageTitle": "Contributing",
+			"pageContent": [
+				"Content for the page. A page can also contain sections."
+			],
+			"section": []
+		},
+		{
+			"pageTitle": "Food",
 			"pageContent": [
 				"Content for the page. A page can also contain sections."
 			],

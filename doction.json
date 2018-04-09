@@ -1,12 +1,12 @@
 {
-	"logo": "https://icongr.am/fontawesome/cube.svg?size=128",
-	"siteTitle": "Company",
+	"logo": "https://icongr.am/material/pizza.svg?size=128",
+	"siteTitle": "Sliceline",
 	"siteSubTitle": "Design System",
 	"page": [
 		{
 			"pageTitle": "Welcome",
 			"pageContent": [
-				"Kick-off the documentation for your amazing new design system new creating a new page from the left sidebar.\nAlso, make sure you have the Sketch plugin installed so that you can import designs into the repository.\n\n![](https://www.dropbox.com/s/j7hpuulf87ncquc/Doction-Preview.png?dl=1)"
+				"Kick-off the documentation for your amazing new design system new creating a new page from the left sidebar.\nAlso, make sure you have the Sketch plugin installed so that you can import designs into the repository.\n"
 			],
 			"section": []
 		},
@@ -81,5 +81,6 @@
 			],
 			"section": []
 		}
-	]
+	],
+	"primaryColor": "B12029"
 }

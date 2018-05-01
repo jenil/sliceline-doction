@@ -1,12 +1,12 @@
 {
-	"logo": "https://icongr.am/fontawesome/cube.svg?size=128",
-	"siteTitle": "Company",
+	"logo": "https://res.cloudinary.com/teepublic/image/private/s--wHD0pofG--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1522088280/production/designs/2531998_0.jpg",
+	"siteTitle": "Sliceline",
 	"siteSubTitle": "Design System",
 	"page": [
 		{
 			"pageTitle": "Welcome",
 			"pageContent": [
-				"Kick-off the documentation for your amazing new design system new creating a new page from the left sidebar.\nAlso, make sure you have the Sketch plugin installed so that you can import designs into the repository.\n\n![](https://www.dropbox.com/s/j7hpuulf87ncquc/Doction-Preview.png?dl=1)"
+				"Kick-off the documentation for your amazing new design system new creating a new page from the left sidebar.\n\n![](http://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/03/sliceline-silicon-valley-hbo-TEXT-2018.png)\n\n1. One\n2. Point two"
 			],
 			"section": []
 		},
@@ -81,5 +81,6 @@
 			],
 			"section": []
 		}
-	]
+	],
+	"primaryColor": "B12029"
 }
